@@ -2,7 +2,7 @@
 
 ### About
 
-Physics Bachelor Student at ETH Zurich
+Physics student at ETH Zurich
 
 ### Contact
 
