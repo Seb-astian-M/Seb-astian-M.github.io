@@ -1,10 +1,10 @@
-## Sebastian Münkel
+# Sebastian Münkel
 
-# About me
+### About me
 
 Physics Bachelor Student at ETH Zurich
 
-# Contact me
+### Contact me
 
 * +41 77 984 1201
 * muenkel.sebastian@gmail.com
