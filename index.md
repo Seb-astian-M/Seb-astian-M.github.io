@@ -2,7 +2,7 @@
 
 ### About
 
-Physics student at ETH Zurich that likes to run occasionally
+Physics student at ETH Zurich that likes to run occasionally.
 
 ### Contact
 
