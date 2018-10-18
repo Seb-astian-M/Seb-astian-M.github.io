@@ -6,6 +6,8 @@ Physics student at ETH Zurich that likes to run occasionally.
 
 ### Contact
 
+
+* +49 151 142 99 883 (Phone)
 * +41 77 984 1201 (WhatsApp)
 * [muenkel.sebastian@gmail.com](mailto:muenkel.sebastian@gmail.com)
 
