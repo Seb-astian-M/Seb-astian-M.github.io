@@ -1,6 +1,6 @@
 ### About
 
-Physics student that likes to run occasionally.
+Physics BSc. student that likes to run occasionally.
 
 ### Contact
 
