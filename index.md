@@ -1,5 +1,3 @@
-# Sebastian Münkel
-
 ### About
 
 Physics student that likes to run occasionally.
