@@ -9,5 +9,3 @@ Physics student that likes to run occasionally.
 
 * +49 151 142 99 883 (WhatsApp, Signal, Telegram, etc.)
 * [muenkel.sebastian@gmail.com](mailto:muenkel.sebastian@gmail.com)
-
-(ignore that "view my github profile" link... it's broken and i don't wanna fix it)
