@@ -1,7 +1,7 @@
 
 Physics BSc. student that likes to run occasionally.
 
-# Contact
+### Contact
 
 
 * +49 151 142 99 883 (WhatsApp, Signal, Telegram, etc.)
