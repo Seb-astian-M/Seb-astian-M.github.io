@@ -1,1 +1,3 @@
-
+theme: minima
+minima:
+  title: Sebastian Münkel
