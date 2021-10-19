@@ -1,4 +1,3 @@
-# About
 
 Physics BSc. student that likes to run occasionally.
 
