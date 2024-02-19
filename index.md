@@ -1,5 +1,5 @@
 
-Physics BSc. student that likes to run occasionally.
+Physics student from Germany.
 
 ### Contact
 
